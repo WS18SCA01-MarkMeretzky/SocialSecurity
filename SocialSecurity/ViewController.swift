@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     }
     
     //Called when the user taps the return key.
-    //Dismiss the keyboard if the UiTextField contains exactly 9 characters.
+    //Dismiss the keyboard if the UITextField contains exactly 9 characters.
     
     @IBAction func primaryActionTriggered(_ sender: UITextField) {
         if let text: String = sender.text,
