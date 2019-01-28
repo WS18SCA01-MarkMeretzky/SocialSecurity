@@ -25,7 +25,6 @@
                                 <textInputTraits key="textInputTraits" keyboardType="numbersAndPunctuation"/>
                                 <connections>
                                     <action selector="editingChanged:" destination="BYZ-38-t0r" eventType="editingChanged" id="cCl-UE-hbl"/>
-                                    <action selector="editingChanged:" destination="BYZ-38-t0r" eventType="editingDidEnd" id="fFH-Lq-VCx"/>
                                     <action selector="primaryActionTriggered:" destination="BYZ-38-t0r" eventType="primaryActionTriggered" id="8TZ-Jw-W0t"/>
                                 </connections>
                             </textField>
